@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.calci{
+    height: 250px;
+    width: 250px;
+    background-color: bisque;
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 55px;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
